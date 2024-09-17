@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    background-color: aliceblue;
+    margin: 10px;
+    display: flex;
+    width:55%;
+
+}
+.Left{
+    background-color: blue;
+    width: 55%;
+    padding: 30px;
+}
+.Left h1{
+    color: white;
+    padding: 10px;
+}
+p{
+    padding: 10px;
+}
+.submit{
+    padding: 10px;
+}
+button{
+   padding: 10px;
+}
+.Right{
+    background-color: white;
+    width: 55%;
+    color: black;
+    padding: 30px;
+}
+.Right h1{
+    margin: 10px;
+    color: blue;
+}
+form{
+    margin: 10px;
+    
+}
+.input{
+    display: flex;
+    
+}
+
